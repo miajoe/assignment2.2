@@ -1,0 +1,19 @@
+.form {
+  width: 300px;
+  margin-left: 20px;
+}
+.row {
+  margin-left: 12px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.myrowclass {
+  background-color: blue;
+}
+.mydiv {
+  width: 10px;
+  height: 10px;
+  background-color: black;
+}
